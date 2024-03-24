@@ -1,0 +1,7 @@
+const {john,peter}=require("./4-names")
+const say=require("./5-utils")
+const data=require("./6-alterantive-flavour")
+require("./7-mind-granade")
+say("Susan")
+say(john)
+say(peter)
